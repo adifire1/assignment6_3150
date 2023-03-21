@@ -1,0 +1,26 @@
+h1, h2 {
+    color: blue;
+  }
+  
+  p {
+    color: grey;
+  }
+  ul {
+    border: 2px solid teal;
+  }
+  
+  ol {
+    border: 5px solid green;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 7px;
+  }
+  h1, strong {
+    color: magenta;
+  }
+  
+  em {
+    color: maroon;
+  }
